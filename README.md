@@ -1,1 +1,1 @@
-# Calculator
+This is a standard calculator built with vanilla JS, HTML & CSS using modern ES6 syntax and classes
